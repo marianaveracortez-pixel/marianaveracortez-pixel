@@ -25,9 +25,6 @@ Aplicación web desarrollada con ASP.NET Core MVC, C#, SQL Server y Entity Frame
 ### 🎓 Plataforma de Gestión de Cursos
 Aplicación web para la administración de cursos y usuarios, desarrollada con ASP.NET Core MVC, C# y SQL Server.
 
-### 💰 StudyCash *(En desarrollo)*
-Aplicación enfocada en ayudar a estudiantes a administrar su presupuesto y organizar su tiempo de estudio de manera simple y eficiente.
-
 ## 🌱 Actualmente
 
 - Fortaleciendo mis conocimientos en desarrollo Back-End.
